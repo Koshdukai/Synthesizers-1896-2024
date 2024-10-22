@@ -2032,7 +2032,7 @@
 2030,2017,Roli,Roli: Seabord Block,Misc,Keys,Miscellaneous,Controller,Controller,0,0,0,0,TRUE,,Keys,TRUE,poly,2017 - 2021,4,0.3831899166975123
 2031,2017,Sonicsmith,Sonicsmith: Convertor,Synth,Desktop,Analog,Analog,VCO,1,2,0,0,FALSE,,,FALSE,,2017 - Present,8,0.1550629286093904
 2032,2017,Sismo,Sismo: Ona,Synth,Desktop,Analog,Analog,VCO,4,1,0,0,FALSE,,,FALSE,,2017 - 2017,0,0.1022815876953464
-2033,2017,Teenage Engineering,Teenage Engineering: PO-32 Tonic,Drum,Desktop,Digital,Digital,PM+ROM,16,1,16,0,FALSE,,Buttons,FALSE,FALSE,2017 - Present,8,0.4593310343287682
+2033,2017,Teenage Engineering,Teenage Engineering: PO-32 Tonic,Drum,Desktop,Digital,Digital,FM,4,1,4,16,FALSE,,Buttons,FALSE,FALSE,2017 - Present,8,0.4593310343287682
 2034,2017,Audiothingies,Audiothingies: Doubledrummer,Drum,Desktop,Digital,Digital,VA+ROM,12,1,1,0,TRUE,TRUE,Buttons,FALSE,FALSE,2017 - 2020,3,0.1858071777894634
 2035,2017,Sismo,Sismo: Mqn3,Synth,Desktop,Analog,Analog,VCO,2,2,0,0,FALSE,,,FALSE,,2017 - 2017,0,0.1403884569734893
 2036,2017,Akai,Akai: Mpc X,Sampler,Desktop,Digital,Digital,Sample,16,1,16,0,TRUE,TRUE,Buttons,TRUE,channel,2017 - Present,8,0.2730738506880831
